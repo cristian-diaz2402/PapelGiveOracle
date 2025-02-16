@@ -1,0 +1,1262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|c:\\users\\user\\onedrive - escuela polit\u00E9cnica nacional\\universidad\\quinto semestre\\bases distribuidas\\proyecto2b\\proyectobdd\\ventanaconfirmarborrprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconnfirmaraddprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconnfirmaraddprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconnfirmaraddprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconnfirmaraddprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmaraddprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmaraddprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmaraddemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmaraddemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmaraddemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmaraddemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmaraddcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmaraddcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriacajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriacajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanatransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanatransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodfv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodfv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodfv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodfv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaregistrocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaregistrocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrfv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrfv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaregistrocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaregistrocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaregistroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaregistroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrfc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrfv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrfv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaregistroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaregistroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanatransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanatransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriacajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriacajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaregistrocajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaregistrocajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaregistrocajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaregistrocajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriafcturasv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriafcturasv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriafcturasv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriafcturasv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarmodprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarmodprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrprov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborrprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborrprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborremple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborremple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmarborremple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmarborremple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaconfirmaraddprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaconfirmaraddprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanacompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanacompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanacompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanacompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanacaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanacaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanacaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanacaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\ventanaauditoriaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:ventanaauditoriaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CBD6D7-5227-4440-9C58-716DE6EC4A07}|ProyectoBDD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VentanaConfirmarAddCliente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarAddCliente.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarAddCliente.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarAddCliente.cs",
+              "RelativeToolTip": "VentanaConfirmarAddCliente.cs",
+              "ViewState": "AQIAADYAAAAAspmZmZn5v00AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:42.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentanaConnfirmarAddProv.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConnfirmarAddProv.cs",
+              "RelativeDocumentMoniker": "VentanaConnfirmarAddProv.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConnfirmarAddProv.cs",
+              "RelativeToolTip": "VentanaConnfirmarAddProv.cs",
+              "ViewState": "AQIAACoAAACAz8zMzMwewEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:42.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentanaConfirmarModProv.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModProv.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModProv.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarModProv.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarModProv.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:42.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentanaConfirmarBorrProd.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrProd.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrProd.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrProd.cs",
+              "RelativeToolTip": "VentanaConfirmarBorrProd.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwCsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T03:24:42.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentanaProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaProveedores.cs",
+              "RelativeDocumentMoniker": "VentanaProveedores.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaProveedores.cs",
+              "RelativeToolTip": "VentanaProveedores.cs",
+              "ViewState": "AQIAAB4AAAAAwGZmZmbmv0gBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:42.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentanaConfirmarModProv.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModProv.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModProv.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModProv.cs",
+              "RelativeToolTip": "VentanaConfirmarModProv.cs",
+              "ViewState": "AQIAABIAAABAmJmZmZklwCUAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:42.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentanaConnfirmarAddProv.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConnfirmarAddProv.cs",
+              "RelativeDocumentMoniker": "VentanaConnfirmarAddProv.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConnfirmarAddProv.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConnfirmarAddProv.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:42.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentanaConfirmarAddProd.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarAddProd.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarAddProd.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarAddProd.cs",
+              "RelativeToolTip": "VentanaConfirmarAddProd.cs",
+              "ViewState": "AQIAAC0AAAAA0szMzMzsv0QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentanaConfirmarModEmple.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModEmple.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModEmple.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModEmple.cs",
+              "RelativeToolTip": "VentanaConfirmarModEmple.cs",
+              "ViewState": "AQIAABgAAACAfmZmZuYjwC8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentanaConfirmarAddEmple.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarAddEmple.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarAddEmple.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarAddEmple.cs",
+              "RelativeToolTip": "VentanaConfirmarAddEmple.cs",
+              "ViewState": "AQIAADIAAACABwAAAAAUwEcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentanaConfirmarAddEmple.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarAddEmple.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarAddEmple.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarAddEmple.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarAddEmple.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentanaAuditoriaEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaEmpleados.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaEmpleados.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaAuditoriaEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaAuditoriaEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentanaClientes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaClientes.cs",
+              "RelativeDocumentMoniker": "VentanaClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaClientes.cs",
+              "RelativeToolTip": "VentanaClientes.cs",
+              "ViewState": "AQIAAJsBAAAMMzMzMzMRwKoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VentanaProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaProveedores.cs",
+              "RelativeDocumentMoniker": "VentanaProveedores.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VentanaClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaClientes.cs",
+              "RelativeDocumentMoniker": "VentanaClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentanaEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaEmpleados.cs",
+              "RelativeDocumentMoniker": "VentanaEmpleados.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VentanaEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaEmpleados.cs",
+              "RelativeDocumentMoniker": "VentanaEmpleados.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaEmpleados.cs",
+              "RelativeToolTip": "VentanaEmpleados.cs",
+              "ViewState": "AQIAAC8BAAAAWM3MzMwgwEYBAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VentanaConfirmarModCliente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModCliente.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModCliente.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModCliente.cs",
+              "RelativeToolTip": "VentanaConfirmarModCliente.cs",
+              "ViewState": "AQIAADAAAAAAAgAAAAAwwEwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VentanaAuditorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditorias.cs",
+              "RelativeDocumentMoniker": "VentanaAuditorias.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaAuditorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaAuditorias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VentanaAuditorias.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditorias.cs",
+              "RelativeDocumentMoniker": "VentanaAuditorias.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditorias.cs",
+              "RelativeToolTip": "VentanaAuditorias.cs",
+              "ViewState": "AQIAAAsAAACAzMzMzMwQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VentanaAuditoriaClientes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaClientes.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaClientes.cs",
+              "RelativeToolTip": "VentanaAuditoriaClientes.cs",
+              "ViewState": "AQIAABYAAAAAWDMzMzPzvx8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VentanaAuditoriaClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaClientes.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaAuditoriaClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaAuditoriaClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VentanaAuditoriaCajas.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaCajas.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaCajas.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaCajas.cs",
+              "RelativeToolTip": "VentanaAuditoriaCajas.cs",
+              "ViewState": "AQIAABQAAAAAAwAAAAApwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VentanaConfirmarModFC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModFC.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModFC.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarModFC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarModFC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VentanaConfirmarModFv.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModFv.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModFv.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarModFv.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarModFv.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VentanaConfirmarModFC.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModFC.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModFC.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModFC.cs",
+              "RelativeToolTip": "VentanaConfirmarModFC.cs",
+              "ViewState": "AQIAABYAAACgmpmZmZk4wD0AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VentanaRegistroCompras.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaRegistroCompras.cs",
+              "RelativeDocumentMoniker": "VentanaRegistroCompras.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaRegistroCompras.cs",
+              "RelativeToolTip": "VentanaRegistroCompras.cs",
+              "ViewState": "AQIAABcAAAAAaGZmZmYpwCUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VentanaConfirmarBorrFC.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrFC.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrFC.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrFC.cs",
+              "RelativeToolTip": "VentanaConfirmarBorrFC.cs",
+              "ViewState": "AQIAABYAAACAEwAAAAAuwDEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "VentanaRegistroVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaRegistroVentas.cs",
+              "RelativeDocumentMoniker": "VentanaRegistroVentas.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaRegistroVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaRegistroVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VentanaTransacciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaTransacciones.cs",
+              "RelativeDocumentMoniker": "VentanaTransacciones.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaTransacciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaTransacciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VentanaConfirmarModFv.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModFv.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModFv.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModFv.cs",
+              "RelativeToolTip": "VentanaConfirmarModFv.cs",
+              "ViewState": "AQIAACoAAAAAQjMzMzMXwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VentanaRegistroVentas.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaRegistroVentas.cs",
+              "RelativeDocumentMoniker": "VentanaRegistroVentas.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaRegistroVentas.cs",
+              "RelativeToolTip": "VentanaRegistroVentas.cs",
+              "ViewState": "AQIAADoAAADgamZmZmYwwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VentanaRegistroCompras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaRegistroCompras.cs",
+              "RelativeDocumentMoniker": "VentanaRegistroCompras.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaRegistroCompras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaRegistroCompras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VentanaConfirmarBorrFV.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrFV.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrFV.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrFV.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrFV.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VentanaConfirmarBorrFC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrFC.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrFC.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrFC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrFC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VentanaConfirmarBorrFV.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrFV.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrFV.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrFV.cs",
+              "RelativeToolTip": "VentanaConfirmarBorrFV.cs",
+              "ViewState": "AQIAABMAAAC4zszMzMwQwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VentanaTransacciones.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaTransacciones.cs",
+              "RelativeDocumentMoniker": "VentanaTransacciones.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaTransacciones.cs",
+              "RelativeToolTip": "VentanaTransacciones.cs",
+              "ViewState": "AQIAACEAAADw//////8uwDEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "VentanaAuditoriaCajas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaCajas.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaCajas.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaAuditoriaCajas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaAuditoriaCajas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "VentanaRegistroCajas.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaRegistroCajas.cs",
+              "RelativeDocumentMoniker": "VentanaRegistroCajas.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaRegistroCajas.cs",
+              "RelativeToolTip": "VentanaRegistroCajas.cs",
+              "ViewState": "AQIAAIMAAAAAnJmZmZklwKQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "VentanaConfirmarModCaja.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModCaja.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModCaja.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModCaja.cs",
+              "RelativeToolTip": "VentanaConfirmarModCaja.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VentanaRegistroCajas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaRegistroCajas.cs",
+              "RelativeDocumentMoniker": "VentanaRegistroCajas.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaRegistroCajas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaRegistroCajas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VentanaConfirmarModCaja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModCaja.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModCaja.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarModCaja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarModCaja.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VentanaConfirmarBorrCaja.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrCaja.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrCaja.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrCaja.cs",
+              "RelativeToolTip": "VentanaConfirmarBorrCaja.cs",
+              "ViewState": "AQIAABsAAACAAQAAAAAowCEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VentanaConfirmarBorrCaja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrCaja.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrCaja.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrCaja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrCaja.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "VentanaConfirmarBorrCliente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrCliente.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrCliente.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrCliente.cs",
+              "RelativeToolTip": "VentanaConfirmarBorrCliente.cs",
+              "ViewState": "AQIAABUAAABQAAAAAAAgwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "VentanaAuditoriaFcturasV.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaFcturasV.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaFcturasV.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaAuditoriaFcturasV.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaAuditoriaFcturasV.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "VentanaConfirmarModEmple.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModEmple.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModEmple.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarModEmple.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarModEmple.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "VentanaAuditoriaFcturasV.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaFcturasV.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaFcturasV.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaFcturasV.cs",
+              "RelativeToolTip": "VentanaAuditoriaFcturasV.cs",
+              "ViewState": "AQIAAAgAAADAOzMzMzP7vxQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "VentanaAuditoriaProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaProductos.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaProductos.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaAuditoriaProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaAuditoriaProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VentanaAuditoriaProductos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaProductos.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaProductos.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaProductos.cs",
+              "RelativeToolTip": "VentanaAuditoriaProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "VentanaVentas.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaVentas.cs",
+              "RelativeDocumentMoniker": "VentanaVentas.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaVentas.cs",
+              "RelativeToolTip": "VentanaVentas.cs",
+              "ViewState": "AQIAANYAAAAA8szMzMwcwOQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "VentanaVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaVentas.cs",
+              "RelativeDocumentMoniker": "VentanaVentas.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "VentanaConfirmarModCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModCliente.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModCliente.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarModCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarModCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "VentanaConfirmarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarVenta.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarVenta.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarVenta.cs",
+              "RelativeToolTip": "VentanaConfirmarVenta.cs",
+              "ViewState": "AQIAAEIAAAAAfGZmZmYiwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "VentanaConfirmarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarVenta.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarVenta.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "VentanaConfirmarModProd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModProd.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModProd.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarModProd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarModProd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "VentanaAuditoriaProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaProveedores.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaProveedores.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaAuditoriaProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaAuditoriaProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "VentanaConfirmarBorrCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrCliente.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrCliente.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "VentanaProductos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaProductos.cs",
+              "RelativeDocumentMoniker": "VentanaProductos.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaProductos.cs",
+              "RelativeToolTip": "VentanaProductos.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "VentanaProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaProductos.cs",
+              "RelativeDocumentMoniker": "VentanaProductos.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "VentanaConfirmarModProd.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModProd.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarModProd.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarModProd.cs",
+              "RelativeToolTip": "VentanaConfirmarModProd.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "VentanaConfirmarCompra.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarCompra.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarCompra.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarCompra.cs",
+              "RelativeToolTip": "VentanaConfirmarCompra.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "VentanaConfirmarCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarCompra.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarCompra.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "VentanaConfirmarCierreCaja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarCierreCaja.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarCierreCaja.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarCierreCaja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarCierreCaja.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "VentanaConfirmarBorrProv.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrProv.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrProv.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrProv.cs",
+              "RelativeToolTip": "VentanaConfirmarBorrProv.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwDUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "VentanaConfirmarCierreCaja.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarCierreCaja.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarCierreCaja.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarCierreCaja.cs",
+              "RelativeToolTip": "VentanaConfirmarCierreCaja.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAYwF8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "VentanaConfirmarBorrProv.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrProv.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrProv.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrProv.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrProv.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "VentanaConfirmarBorrProd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrProd.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrProd.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrProd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrProd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "VentanaConfirmarBorrEmple.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrEmple.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrEmple.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrEmple.cs",
+              "RelativeToolTip": "VentanaConfirmarBorrEmple.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "VentanaConfirmarBorrEmple.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarBorrEmple.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarBorrEmple.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrEmple.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarBorrEmple.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "VentanaConfirmarAddProd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaConfirmarAddProd.cs",
+              "RelativeDocumentMoniker": "VentanaConfirmarAddProd.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaConfirmarAddProd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaConfirmarAddProd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "VentanaCompras.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaCompras.cs",
+              "RelativeDocumentMoniker": "VentanaCompras.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaCompras.cs",
+              "RelativeToolTip": "VentanaCompras.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwDEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "VentanaCompras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaCompras.cs",
+              "RelativeDocumentMoniker": "VentanaCompras.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaCompras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaCompras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "VentanaCaja.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaCaja.cs",
+              "RelativeDocumentMoniker": "VentanaCaja.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaCaja.cs",
+              "RelativeToolTip": "VentanaCaja.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "VentanaCaja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaCaja.cs",
+              "RelativeDocumentMoniker": "VentanaCaja.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProyectoBDD\\VentanaCaja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\ProyectoBDD\\VentanaCaja.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "VentanaAuditoriaProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaProveedores.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaProveedores.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaProveedores.cs",
+              "RelativeToolTip": "VentanaAuditoriaProveedores.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "VentanaAuditoriaEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaEmpleados.cs",
+              "RelativeDocumentMoniker": "VentanaAuditoriaEmpleados.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\VentanaAuditoriaEmpleados.cs",
+              "RelativeToolTip": "VentanaAuditoriaEmpleados.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-28T03:24:43.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Escuela Polit\u00E9cnica Nacional\\Universidad\\QUINTO SEMESTRE\\Bases Distribuidas\\Proyecto2B\\ProyectoBDD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T03:24:43.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

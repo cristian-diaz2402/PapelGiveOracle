@@ -1,0 +1,551 @@
+-----------------------Para ejecutar--------------------------------
+VAR cursorMemoria REFCURSOR; EXEC sp_BuscarNom_Cli(:cursorMemoria, '1728394093'); PRINT cursorMemoria;
+
+-----------------------Buscar cliente--------------------------------
+CREATE OR REPLACE PROCEDURE sp_BuscarNom_Cli (cursorMemoria out sys_refcursor, p_Buscar IN VARCHAR2)
+AS
+BEGIN
+   open cursorMemoria FOR  
+        SELECT 
+            PrimerNom_cli || ' ' || SegundoNom_cli || ' ' || PrimerApp_cli || ' ' || SegundoApp_cli AS "Nombre del Cliente",
+            id_cliente AS Cedula,
+            Nombre_empresa AS "Nombre Empresarial",
+            RUC AS RUC,
+            tel_cli AS "Telefono Celular",
+            correo_elect AS "Correo Electronico",
+            dir_cli AS "Direccion",
+	    sede AS "Sede"
+        FROM 
+            Clientes_uio
+        WHERE 
+            (PrimerNom_cli || ' ' || SegundoNom_cli || ' ' || PrimerApp_cli || ' ' || SegundoApp_cli) LIKE p_Buscar || '%' 
+            OR id_cliente LIKE p_Buscar || '%';
+    END;
+---------------------Insertar cliente-------------------------------------
+CREATE OR REPLACE PROCEDURE sp_InsertarCliente (
+    p_Cedula IN VARCHAR2,
+    p_PrimerNombre IN VARCHAR2,
+    p_SegundoNombre IN VARCHAR2,
+    p_PrimerApellido IN VARCHAR2,
+    p_SegundoApellido IN VARCHAR2,
+    p_Direccion IN VARCHAR2,
+    p_Telefono IN VARCHAR2,
+    p_Correo IN VARCHAR2,
+    p_NombreEmpresa IN VARCHAR2,
+    p_Ruc IN VARCHAR2,
+    p_Sede IN VRCHAR2
+)
+AS
+BEGIN
+    INSERT INTO Clientes_uio (
+        id_cliente,
+        PrimerNom_cli,
+        SegundoNom_cli,
+        PrimerApp_cli,
+        SegundoApp_cli,
+        dir_cli,
+        tel_cli,
+        correo_elect,
+        Nombre_empresa,
+        Ruc,
+	Sede
+    ) VALUES (
+        p_Cedula,
+        p_PrimerNombre,
+        p_SegundoNombre,
+        p_PrimerApellido,
+        p_SegundoApellido,
+        p_Direccion,
+        p_Telefono,
+        p_Correo,
+        p_NombreEmpresa,
+        p_Ruc,
+	p_Sede
+    );
+END;
+---------------------------modificar cliente----------------
+CREATE OR REPLACE PROCEDURE sp_ModificarCliente (
+    p_Cedula IN VARCHAR2,
+    p_PrimerNombre IN VARCHAR2,
+    p_SegundoNombre IN VARCHAR2,
+    p_PrimerApellido IN VARCHAR2,
+    p_SegundoApellido IN VARCHAR2,
+    p_Direccion IN VARCHAR2,
+    p_Telefono IN VARCHAR2,
+    p_Correo IN VARCHAR2,
+    p_NombreEmpresa IN VARCHAR2,
+    p_Ruc IN VARCHAR2,
+    p_Sede IN VARCHAR2
+)
+AS
+BEGIN
+    UPDATE Clientes_uio
+    SET 
+        id_cliente = p_Cedula,
+        PrimerNom_cli = p_PrimerNombre,
+        SegundoNom_cli = p_SegundoNombre,
+        PrimerApp_cli = p_PrimerApellido,
+        SegundoApp_cli = p_SegundoApellido,
+        dir_cli = p_Direccion,
+        tel_cli = p_Telefono,
+        correo_elect = p_Correo,
+        Nombre_empresa = p_NombreEmpresa,
+        Ruc = p_Ruc,
+	Sede = p_Sede
+    WHERE id_cliente = p_Cedula;
+END;
+-------------------------Buscar empleado---------------
+CREATE OR REPLACE PROCEDURE sp_BuscarNom_Emple (
+    cursorMemoria OUT sys_refcursor,
+    p_Buscar IN VARCHAR2
+)
+AS
+BEGIN
+    OPEN cursorMemoria FOR
+        SELECT 
+            PrimerNom_cli || ' ' || SegundoNom_cli || ' ' || PrimerApp_cli || ' ' || SegundoApp_cli AS "Nombre del Cliente",
+            id_empleado AS Cedula,
+            ocupacion AS "Ocupación",
+            rol AS Rol,
+            tel_cli AS "Telefono Celular",
+            correo AS "Correo Electronico",
+            dir_cli AS "Direccion",
+            nomb_usuario AS "Nombre de Usuario",
+            clave AS "Clave de Usuario",
+            nombreSede AS Sede,
+            sueldo AS Sueldo
+        FROM 
+            Empleados_uio
+        WHERE 
+            (PrimerNom_cli || ' ' || SegundoNom_cli || ' ' || PrimerApp_cli || ' ' || SegundoApp_cli) LIKE p_Buscar || '%' 
+            OR id_empleado LIKE p_Buscar || '%';
+END;
+------------------------Insertar Empleado----------------------------
+CREATE OR REPLACE PROCEDURE sp_InsertarEmpleado (
+    p_Cedula IN VARCHAR2,
+    p_PrimerNombre IN VARCHAR2,
+    p_SegundoNombre IN VARCHAR2,
+    p_PrimerApellido IN VARCHAR2,
+    p_SegundoApellido IN VARCHAR2,
+    p_Direccion IN VARCHAR2,
+    p_Telefono IN VARCHAR2,
+    p_Correo IN VARCHAR2,
+    p_Rol IN VARCHAR2,
+    p_Ocupacion IN VARCHAR2,
+    p_Clave IN VARCHAR2,
+    p_NombreUsuario IN VARCHAR2,
+    p_NombreSede IN VARCHAR2,
+    p_Sueldo NUMBER
+)
+AS
+BEGIN
+    INSERT INTO Empleados_uio (
+        id_empleado,
+        PrimerNom_cli,
+        SegundoNom_cli,
+        PrimerApp_cli,
+        SegundoApp_cli,
+        dir_cli,
+        tel_cli,
+        correo,
+        rol,
+        ocupacion,
+        clave,
+        nomb_usuario,
+        nombreSede,
+        sueldo
+    ) VALUES (
+        p_Cedula,
+        p_PrimerNombre,
+        p_SegundoNombre,
+        p_PrimerApellido,
+        p_SegundoApellido,
+        p_Direccion,
+        p_Telefono,
+        p_Correo,
+        p_Rol,
+        p_Ocupacion,
+        p_Clave,
+        p_NombreUsuario,
+        p_NombreSede,
+        p_Sueldo
+    );
+END;
+---------------------------Modificar Empleado-----------------------
+CREATE OR REPLACE PROCEDURE sp_ModificarEmpleado (
+    p_Cedula IN VARCHAR2,
+    p_PrimerNombre IN VARCHAR2,
+    p_SegundoNombre IN VARCHAR2,
+    p_PrimerApellido IN VARCHAR2,
+    p_SegundoApellido IN VARCHAR2,
+    p_Direccion IN VARCHAR2,
+    p_Telefono IN VARCHAR2,
+    p_Correo IN VARCHAR2,
+    p_Rol IN VARCHAR2,
+    p_Ocupacion IN VARCHAR2,
+    p_Clave IN VARCHAR2,
+    p_NombreUsuario IN VARCHAR2,
+    p_NombreSede IN VARCHAR2,
+    p_Sueldo IN NUMBER
+)
+AS
+BEGIN
+    UPDATE Empleados
+    SET 
+        id_empleado = p_Cedula,
+        PrimerNom_cli = p_PrimerNombre,
+        SegundoNom_cli = p_SegundoNombre,
+        PrimerApp_cli = p_PrimerApellido,
+        SegundoApp_cli = p_SegundoApellido,
+        dir_cli = p_Direccion,
+        tel_cli = p_Telefono,
+        correo = p_Correo,
+        rol = p_Rol,
+        ocupacion = p_Ocupacion,
+        clave = p_Clave,
+        nomb_usuario = p_NombreUsuario,
+        nombreSede = p_NombreSede,
+        sueldo = p_Sueldo
+    WHERE id_empleado = p_Cedula;
+END;
+----------------------Buscar proveedores---------------------------------
+CREATE OR REPLACE PROCEDURE sp_BuscarNom_Prov (
+    cursorMemoria OUT sys_refcursor,
+    p_Buscar IN VARCHAR2
+)
+AS
+BEGIN
+    OPEN cursorMemoria FOR
+        SELECT 
+            nombre_prov AS "Nombre Empresarial",
+            id_proveedor AS RUC,
+            tel_prov AS "Teléfono Celular",
+            correo_elect AS "Correo Electrónico",
+            dir_prov AS "Dirección",
+            nombreSede AS "Sede"
+        FROM 
+            Proveedores_uio
+        WHERE 
+            nombre_prov LIKE p_Buscar || '%' 
+            OR id_proveedor LIKE p_Buscar || '%';
+END;
+
+-----------------------insertar proveedor---------------
+CREATE OR REPLACE PROCEDURE sp_InsertarProveedor (
+    p_RUC IN VARCHAR2,
+    p_NombreEmpresarial IN VARCHAR2,
+    p_Correo IN VARCHAR2,
+    p_Telefono IN VARCHAR2,
+    p_Direccion IN VARCHAR2,
+    p_NombreSede IN VARCHAR2
+)
+AS
+BEGIN
+    INSERT INTO Proveedores_uio (
+        id_proveedor,
+        nombre_prov,
+        nombreSede,
+        dir_prov,
+        tel_prov,
+        correo_elect
+    ) VALUES (
+        p_RUC,
+        p_NombreEmpresarial,
+        p_NombreSede,
+        p_Direccion,
+        p_Telefono,
+        p_Correo
+    );
+END;
+--------------------------------modificar proveedor----------------------
+CREATE OR REPLACE PROCEDURE sp_ModificarProveedor (
+    p_Direccion IN VARCHAR2,
+    p_Telefono IN VARCHAR2,
+    p_Correo IN VARCHAR2,
+    p_RUC IN VARCHAR2,
+    p_NombreSede IN VARCHAR2,
+    p_NombreEmpresarial IN VARCHAR2
+)
+AS
+BEGIN
+    UPDATE Proveedores_uio
+    SET 
+        id_proveedor = p_RUC,
+        nombre_prov = p_NombreEmpresarial,
+        correo_elect = p_Correo,
+        tel_prov = p_Telefono,
+        dir_prov = p_Direccion,
+        nombreSede = p_NombreSede
+    WHERE id_proveedor = p_RUC;
+END;
+---------------------------------Buscar proveedor-----------------
+CREATE OR REPLACE PROCEDURE sp_BuscarNom_Prod (
+    cursorMemoria OUT sys_refcursor,
+    p_Nombre IN VARCHAR2
+)
+AS
+BEGIN
+    OPEN cursorMemoria FOR
+        SELECT 
+            id_producto AS "Código de Barra",
+            nombre_prod AS "Nombre del Producto",
+            precio_porPaq AS "Precio por Paquete",
+            cant AS "Cantidad"
+        FROM 
+            Productos
+        WHERE 
+            nombre_prod LIKE p_Nombre || '%';
+END;
+----------------------------insertar proveedor--------------------
+CREATE OR REPLACE PROCEDURE sp_InsertarProductos (
+    p_NombreProducto IN VARCHAR2,
+    p_PrecioPaquete IN NUMBER,
+    p_CodigoBarra IN NUMBER
+)
+AS
+BEGIN
+    INSERT INTO Productos (id_producto, nombre_prod, precio_porPaq)
+    VALUES (p_CodigoBarra, p_NombreProducto, p_PrecioPaquete);
+END;
+----------------------------Modifica proveedor--------------------------
+CREATE OR REPLACE PROCEDURE sp_ModificarProducto (
+    p_CodigoBarra IN NUMBER,
+    p_NombreProducto IN VARCHAR2,
+    p_PrecioPaquete IN NUMBER
+)
+AS
+BEGIN
+    UPDATE Productos
+    SET 
+        id_producto = p_CodigoBarra,
+        nombre_prod = p_NombreProducto,
+        precio_porPaq = p_PrecioPaquete
+    WHERE id_producto = p_CodigoBarra;
+END;
+-------------------------------Comprar---------------------
+CREATE OR REPLACE PROCEDURE sp_Comprar (
+    p_NumeroOrden IN NUMBER,
+    p_Total IN NUMBER,
+    p_IVA IN NUMBER,
+    p_Fecha IN DATE,
+    p_ModoPago IN VARCHAR2
+)
+AS
+BEGIN
+    INSERT INTO NumeroOrdenCompra (num_orden, total, iva, fecha_adq, modoPag)
+    VALUES (p_NumeroOrden, p_Total, p_IVA, p_Fecha, p_ModoPago);
+END;
+--------------------------ItemsC----------------------
+CREATE OR REPLACE PROCEDURE sp_ItemC (
+    p_Cantidad IN NUMBER,
+    p_NumeroOrden IN NUMBER,
+    p_CodigoBarras IN NUMBER,
+    p_RUC IN VARCHAR2
+)
+AS
+BEGIN
+    INSERT INTO ItemsC (cant, num_orden, id_producto, id_proveedor)
+    VALUES (p_Cantidad, p_NumeroOrden, p_CodigoBarras, p_RUC);
+END;
+-------------------Actualizar cant producto----------
+CREATE OR REPLACE PROCEDURE sp_actualizarCantProducto (
+    p_CodigoBarra IN NUMBER,
+    p_Cantidad IN NUMBER
+)
+AS
+BEGIN
+    UPDATE Productos
+    SET cant = NVL(cant, 0) + p_Cantidad
+    WHERE id_producto = p_CodigoBarra;
+END;
+-------------------------------Vender--------------------------
+CREATE OR REPLACE PROCEDURE sp_Vender (
+    p_NumeroFactura IN NUMBER,
+    p_Total IN NUMBER,
+    p_IVA IN NUMBER,
+    p_Fecha IN DATE,
+    p_CI IN VARCHAR2,
+    p_ModoPago IN VARCHAR2
+)
+AS
+BEGIN
+    INSERT INTO FacturasV (num_factura, total, id_cliente, iva, fecha_fact, modoPago)
+    VALUES (p_NumeroFactura, p_Total, p_CI, p_IVA, p_Fecha, p_ModoPago);
+END;
+--------------------- itemsV------------------------------------------
+CREATE OR REPLACE PROCEDURE sp_ItemV (
+    p_Cantidad IN NUMBER,
+    p_NumeroFactura IN NUMBER,
+    p_CodigoBarra IN NUMBER
+)
+AS
+BEGIN
+    INSERT INTO ItemsV (cant, num_factura, id_producto)
+    VALUES (p_Cantidad, p_NumeroFactura, p_CodigoBarra);
+END;
+------------------Actualizar cant V---------------
+CREATE OR REPLACE PROCEDURE sp_actualizarCantProductoV (
+    p_CodigoBarra IN NUMBER,
+    p_Cantidad IN NUMBER
+)
+AS
+BEGIN
+    UPDATE Productos
+    SET cant = cant - p_Cantidad
+    WHERE id_producto = p_CodigoBarra;
+END;
+----------------------------insertar caja----------------------
+CREATE OR REPLACE PROCEDURE sp_InsertarRegistroCaja (
+    p_CodigoCaja IN NUMBER,
+    p_Fecha IN DATE,
+    p_NombreUsuario IN VARCHAR2,
+    p_MontoInicial IN NUMBER,
+    p_MontoCierre IN NUMBER,
+    p_TotalTransG IN NUMBER,
+    p_TotalEfectG IN NUMBER,
+    p_GastosTotales IN NUMBER,
+    p_TotalTransI IN NUMBER,
+    p_TotalEfectI IN NUMBER,
+    p_IngresosTotales IN NUMBER
+)
+AS
+BEGIN
+    INSERT INTO Caja (codigoCierreCaja, fecha, nomb_usuario, montoInicial, montoCierre, totalTransG, totalEfectG, GastosTotales, totalTransI, totalEfectI, IngresosTotales)
+    VALUES (p_CodigoCaja, p_Fecha, p_NombreUsuario, p_MontoInicial, p_MontoCierre, p_TotalTransG, p_TotalEfectG, p_GastosTotales, p_TotalTransI, p_TotalEfectI, p_IngresosTotales);
+END;
+-----------------------buscar cajas-----------------------------
+CREATE OR REPLACE PROCEDURE sp_MostrarCajas (cursorCaja OUT sys_refcursor)
+AS
+BEGIN
+    OPEN cursorCaja FOR
+        SELECT
+            C.codigoCierreCaja AS "Codigo Caja",
+            C.fecha AS "Fecha de Cierre",
+            C.nomb_usuario AS "Usuario",
+            E.id_empleado AS "CI Usuario",
+            C.totalTransG AS "Gastos Totales en Transferencias",
+            C.totalEfectG AS "Gastos Totales en Efectivo",
+            C.totalTransI AS "Ingresos Totales en Transferencias",
+            C.totalEfectI AS "Ingresos Totales en Efectivo",
+            C.GastosTotales AS "Gastos Totales en Compras",
+            C.IngresosTotales AS "Ingresos Totales en Ventas",
+            C.montoInicial AS "Monto Inicial",
+            C.montoCierre AS "Monto de Cierre"
+        FROM Caja C
+        INNER JOIN Empleados_uio E ON C.nomb_usuario = E.nomb_usuario;
+END;
+-----------------------Buscar cajas--------------
+CREATE OR REPLACE PROCEDURE sp_BuscarCaja (
+    p_fecha IN DATE,
+    cursorCaja OUT sys_refcursor
+)
+AS
+BEGIN
+    OPEN cursorCaja FOR
+        SELECT
+            C.codigoCierreCaja AS "Codigo Caja",
+            C.fecha AS "Fecha de Cierre",
+            C.nomb_usuario AS "Usuario",
+            E.id_empleado AS "CI Usuario",
+            C.totalTransG AS "Gastos Totales en Transferencias",
+            C.totalEfectG AS "Gastos Totales en Efectivo",
+            C.totalTransI AS "Ingresos Totales en Tranferencias",
+            C.totalEfectI AS "Ingresos Totales en Efectivo",
+            C.GastosTotales AS "Gastos Totales en Compras",
+            C.IngresosTotales AS "Ingresos Totales en Ventas",
+            C.montoInicial AS "Monto Inicial",
+            C.montoCierre AS "Monto de Cierre"
+        FROM 
+            Caja C
+            INNER JOIN Empleados_uio E ON C.nomb_usuario = E.nomb_usuario
+        WHERE 
+            C.fecha = p_fecha;
+END;
+--------------------Borrar facturas----------------------
+CREATE OR REPLACE PROCEDURE sp_EliminarFactura (
+    p_NumFactura IN VARCHAR2
+)
+AS
+BEGIN
+    DELETE FROM itemsv WHERE num_factura = p_NumFactura;
+    DELETE FROM facturasv WHERE num_factura = p_NumFactura;
+    COMMIT;
+EXCEPTION
+    WHEN OTHERS THEN
+        ROLLBACK;
+        DBMS_OUTPUT.PUT_LINE('Error: ' || SQLERRM);
+END;
+-----------------modificar facturas v-----------------------
+CREATE OR REPLACE PROCEDURE sp_ModificarFactura (
+    p_NumFactura IN NUMBER,
+    p_Total IN NUMBER,
+    p_Iva IN NUMBER,
+    p_IdCliente IN VARCHAR2,
+    p_ModoPago IN VARCHAR2
+)
+AS
+BEGIN
+    UPDATE FacturasV
+    SET 
+        total = p_Total,
+        iva = p_Iva,
+        id_cliente = p_IdCliente,
+        modoPago = p_ModoPago
+    WHERE num_factura = p_NumFactura;
+END;
+-------------------modificar cajas---------------------------------
+CREATE OR REPLACE PROCEDURE sp_ModificarCaja (
+    p_CodigoCierreCaja IN NUMBER,
+    p_MontoInicial IN NUMBER,
+    p_MontoCierre IN NUMBER,
+    p_TotalTransG IN NUMBER,
+    p_TotalEfectG IN NUMBER,
+    p_GastosTotales IN NUMBER,
+    p_TotalTransI IN NUMBER,
+    p_TotalEfectI IN NUMBER,
+    p_IngresosTotales IN NUMBER
+)
+AS
+BEGIN
+    UPDATE Caja
+    SET 
+        montoInicial = p_MontoInicial,
+        montoCierre = p_MontoCierre,
+        totalTransG = p_TotalTransG,
+        totalEfectG = p_TotalEfectG,
+        GastosTotales = p_GastosTotales,
+        totalTransI = p_TotalTransI,
+        totalEfectI = p_TotalEfectI,
+        IngresosTotales = p_IngresosTotales
+    WHERE codigoCierreCaja = p_CodigoCierreCaja;
+END;
+-------------------------------Borrar compra--------------
+CREATE OR REPLACE PROCEDURE sp_EliminarCompra (
+    p_NumFactura IN VARCHAR2
+)
+AS
+BEGIN
+    DELETE FROM itemsc WHERE num_orden = p_NumFactura;
+    DELETE FROM numeroordencompra WHERE num_orden = p_NumFactura;
+    COMMIT;
+EXCEPTION
+    WHEN OTHERS THEN
+        ROLLBACK;
+        DBMS_OUTPUT.PUT_LINE('Error: ' || SQLERRM);
+END;
+--------------------------------modificar compra---------------------
+CREATE OR REPLACE PROCEDURE sp_ModificarCompra (
+    p_NumFactura IN NUMBER,
+    p_Total IN NUMBER,
+    p_Iva IN NUMBER,
+    p_ModoPago IN VARCHAR2
+)
+AS
+BEGIN
+    UPDATE numeroordencompra
+    SET 
+        total = p_Total,
+        iva = p_Iva,
+        modoPag = p_ModoPago
+    WHERE num_orden = p_NumFactura;
+END;

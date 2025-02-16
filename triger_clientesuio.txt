@@ -1,0 +1,25 @@
+CREATE OR REPLACE TRIGGER audit_clientes_uio
+AFTER DELETE OR INSERT OR UPDATE ON clientes_uio
+FOR EACH ROW
+declare 
+ v_op       varchar2(1);
+ v_tabla varchar2(20);
+ v_anterior varchar2(800);
+ v_nuevo varchar2(800);
+BEGIN
+v_tabla :='clientes_uio';
+if inserting then
+ v_op := 'I';
+ elsif updating then
+ v_op := 'U';
+ elsif deleting then
+  v_op := 'D';
+end if;
+ v_anterior:=:OLD.ID_CLIENTE||'|'||:OLD.PRIMERNOM_CLI||'|'||:OLD.SEGUNDONOM_CLI||'|'||:OLD.PRIMERAPP_CLI||'|'||:OLD.SEGUNDOAPP_CLI;
+ v_nuevo:= :NEW.ID_CLIENTE||'|'||:NEW.PRIMERNOM_CLI||'|'||:NEW.SEGUNDONOM_CLI||'|'||:NEW.PRIMERAPP_CLI||'|'||:NEW.SEGUNDOAPP_CLI;
+  INSERT INTO auditorias(user_name, fecha, tipo_operacion, nombre_table,
+    anterior,nuevo)
+     VALUES (USER, SYSDATE,v_op,v_tabla, v_anterior,v_nuevo
+     );
+END;
+/

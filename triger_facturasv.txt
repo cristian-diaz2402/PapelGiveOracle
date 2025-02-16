@@ -1,0 +1,25 @@
+CREATE OR REPLACE TRIGGER audit_facturasv
+AFTER DELETE OR INSERT OR UPDATE ON facturasv
+FOR EACH ROW
+declare 
+ v_op       varchar2(1);
+ v_tabla varchar2(20);
+ v_anterior varchar2(800);
+ v_nuevo varchar2(800);
+BEGIN
+v_tabla :='facturasv';
+if inserting then
+ v_op := 'I';
+ elsif updating then
+ v_op := 'U';
+ elsif deleting then
+  v_op := 'D';
+end if;
+ v_anterior:=:OLD.NUM_FACTURA||'|'||:OLD.TOTAL||'|'||:OLD.IVA||'|'||:OLD.ID_CLIENTE||'|'||:OLD.MODOPAGO;
+ v_nuevo:= :NEW.NUM_FACTURA||'|'||:NEW.TOTAL||'|'||:NEW.IVA||'|'||:NEW.ID_CLIENTE||'|'||:OLD.MODOPAGO;
+  INSERT INTO auditorias(user_name, fecha, tipo_operacion, nombre_table,
+    anterior,nuevo)
+     VALUES (USER, SYSDATE,v_op,v_tabla, v_anterior,v_nuevo
+     );
+END;
+/

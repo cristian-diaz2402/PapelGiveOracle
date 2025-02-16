@@ -1,0 +1,25 @@
+CREATE OR REPLACE TRIGGER audit_caja
+AFTER DELETE OR INSERT OR UPDATE ON caja
+FOR EACH ROW
+declare 
+ v_op       varchar2(1);
+ v_tabla varchar2(20);
+ v_anterior varchar2(800);
+ v_nuevo varchar2(800);
+BEGIN
+v_tabla :='caja';
+if inserting then
+ v_op := 'I';
+ elsif updating then
+ v_op := 'U';
+ elsif deleting then
+  v_op := 'D';
+end if;
+ v_anterior:=:OLD.codigoCierreCaja||'|'||:OLD.montoInicial||'|'||:OLD.montoCierre||'|'||:OLD.totalTransG||'|'||:OLD.totalEfectG||'|'||:OLD.GastosTotales||'|'||:OLD.totalTransI||'|'||:OLD.totalEfectI||'|'||:OLD.IngresosTotales;
+ v_nuevo:= :NEW.codigoCierreCaja||'|'||:NEW.montoInicial||'|'||:new.montoCierre||'|'||:NEW.totalTransG||'|'||:NEW.totalEfectG||'|'||:NEW.GastosTotales||'|'||:NEW.totalTransI||'|'||:NEW.totalEfectI||'|'||:NEW.IngresosTotales;
+  INSERT INTO auditorias(user_name, fecha, tipo_operacion, nombre_table,
+    anterior,nuevo)
+     VALUES (USER, SYSDATE,v_op,v_tabla, v_anterior,v_nuevo
+     );
+END;
+/

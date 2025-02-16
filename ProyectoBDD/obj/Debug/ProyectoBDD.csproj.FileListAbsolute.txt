@@ -1,0 +1,148 @@
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\ProyectoBDD.exe.config
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\ProyectoBDD.exe
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\ProyectoBDD.pdb
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VenatanaPrincipal.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.Properties.Resources.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.exe
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.pdb
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaClientes.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaCaja.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaEmpleados.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaProductos.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaProveedores.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaTransacciones.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaCompras.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaVentas.resources
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Formats.Asn1.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Text.Json.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Formats.Asn1.xml
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Text.Json.xml
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\ProyectoBDD\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.exe.config
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarAddCliente.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.CopyComplete
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrCliente.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModCliente.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarAddEmple.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrEmple.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModEmple.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConnfirmarAddProv.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModProv.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrProv.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarAddProd.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModProd.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrProd.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarCompra.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarVenta.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaCierreCaja.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarCierreCaja.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaRegistroCajas.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditorias.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaEmpleados.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaClientes.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaProveedores.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrFV.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaRegistroVentas.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModFv.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaFcturasV.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaProductos.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrCaja.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModCaja.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaCajas.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrFC.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaRegistroCompras.resources
+C:\Users\USER\source\repos\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModFC.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\ProyectoBDD.exe.config
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\ProyectoBDD.exe
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\ProyectoBDD.pdb
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Buffers.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Formats.Asn1.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Memory.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Text.Json.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Buffers.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Formats.Asn1.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Memory.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Text.Json.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.exe.config
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VenatanaPrincipal.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.Properties.Resources.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaCajas.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaClientes.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaEmpleados.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaFcturasV.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaProductos.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditoriaProveedores.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaAuditorias.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaCaja.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaCierreCaja.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaClientes.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaCompras.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarAddCliente.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarAddEmple.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarAddProd.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrCaja.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrCliente.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrEmple.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrFC.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrFV.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrProd.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarBorrProv.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarCierreCaja.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarCompra.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModCaja.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModCliente.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModEmple.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModFC.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModFv.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModProd.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarModProv.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConfirmarVenta.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaConnfirmarAddProv.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaEmpleados.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaProductos.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaProveedores.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaRegistroCajas.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaRegistroCompras.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaRegistroVentas.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaTransacciones.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.VentanaVentas.resources
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\Proyecto.4B4DB242.Up2Date
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.exe
+C:\Users\USER\OneDrive - Escuela Politécnica Nacional\Universidad\QUINTO SEMESTRE\Bases Distribuidas\Proyecto2B\ProyectoBDD\obj\Debug\ProyectoBDD.pdb

@@ -1,0 +1,43 @@
+CREATE TABLE Clientes_GYE(
+	id_cliente varchar (10) PRIMARY KEY,
+	PrimerNom_cli varchar(25) NOT NULL,
+	SegundoNom_cli varchar(25) NOT NULL,
+	PrimerApp_cli varchar(25) NOT NULL,
+	SegundoApp_cli varchar(25) NOT NULL,
+	dir_cli varchar(22) NOT NULL,
+	tel_cli varchar(10) NOT NULL,
+	correo_elect varchar (50) NOT NULL,
+	Nombre_empresa varchar(25) NOT NULL,
+	Ruc varchar (13) NOT NULL
+);
+CREATE TABLE Sede (
+  nombreSede varchar(15) PRIMARY KEY
+);
+CREATE TABLE Empleados_GYE (
+	id_empleado varchar (10) PRIMARY KEY,
+	PrimerNom_cli varchar(25) NOT NULL,
+	SegundoNom_cli varchar(25) NOT NULL,
+	PrimerApp_cli varchar(25) NOT NULL,
+	SegundoApp_cli varchar(25) NOT NULL,
+	dir_cli varchar(30) NOT NULL,
+	tel_cli varchar(10) NOT NULL,
+	rol varchar (15) NOT NULL,
+	correo varchar (30) NOT NULL,
+  	ocupacion varchar (30) NOT NULL,
+	clave varchar(20) NOT NULL,
+  	nomb_usuario varchar(20) UNIQUE,
+  	nombreSede varchar(15) NOT NULL,
+  	sueldo decimal(9, 2) NOT NULL,
+	CONSTRAINT UQ_Empleado_Rol UNIQUE (id_empleado, rol) ,
+	CONSTRAINT UQ_Empleado_Sede UNIQUE (id_empleado, nombreSede),
+	FOREIGN KEY (nombreSede) REFERENCES Sede(nombreSede)
+);
+CREATE TABLE Proveedores_GYE (
+  id_proveedor varchar(13) PRIMARY KEY,
+  nombre_prov varchar(20) UNIQUE,
+  correo_elect varchar(20) NOT NULL,
+  tel_prov varchar(10) NOT NULL,
+  dir_prov varchar(20) NOT NULL,
+  nombreSede varchar(15) NOT NULL,
+  FOREIGN KEY (nombreSede) REFERENCES Sede(nombreSede)
+);

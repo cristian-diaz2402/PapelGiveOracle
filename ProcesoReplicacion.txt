@@ -1,0 +1,34 @@
+			QUITO
+----------crear una base de datos quito---------------------
+Create user quito identified by quito
+default tablespace users
+temporary tablespace temp
+profile default;
+--------------------Darle permisos--------------------------
+grant connect, resource to quito;
+alter user quito quota unlimited on users;
+----------------Ingresar a usuario QUITO------------------
+quito/oracle
+---------------Materializar una tabla----------------
+create materialized view log on productos;
+
+
+
+-------------------------GUAYAQUIL------------------------------
+crear la base guayaquil con permisos y ....
+grant connect, resource to guayaquil;
+alter user guayaquil quota unlimited on users;
+grant create database link to guayaquil; --> para que pueda crear database link
+grant create any materialized view, query rewrite to guayaquil;
+------------------------Crear un database link
+create database link dbquito 
+connect to quito identified by oracle
+using 'bdduio';
+----------------para manipular tablas de quito desde guayaquil--------
+select * from tab @dbquito;
+----------------crear una vista materializada-----------------
+create materialized view vwproductos
+refresh fast on demand
+start with to_date('00-00-2024 00:00:00', 'DD-MM-YYYY HH24:MI:SS') next sysdate+1/1440
+as
+select * from productos@dbquito;

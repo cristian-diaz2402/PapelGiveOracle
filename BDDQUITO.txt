@@ -1,0 +1,101 @@
+CREATE TABLE Clientes_UIO(
+	id_cliente varchar (10) PRIMARY KEY,
+	PrimerNom_cli varchar(25) NOT NULL,
+	SegundoNom_cli varchar(25) NOT NULL,
+	PrimerApp_cli varchar(25) NOT NULL,
+	SegundoApp_cli varchar(25) NOT NULL,
+	dir_cli varchar(22) NOT NULL,
+	tel_cli varchar(10) NOT NULL,
+	correo_elect varchar (50) NOT NULL,
+	Nombre_empresa varchar(25) NOT NULL,
+	Ruc varchar (13) NOT NULL,
+	sede varchar (10) NOT NULL
+);
+CREATE TABLE Sede_UIO (
+  nombreSede varchar(15) PRIMARY KEY
+);
+CREATE TABLE Empleados_UIO (
+	id_empleado varchar (10) PRIMARY KEY,
+	PrimerNom_cli varchar(25) NOT NULL,
+	SegundoNom_cli varchar(25) NOT NULL,
+	PrimerApp_cli varchar(25) NOT NULL,
+	SegundoApp_cli varchar(25) NOT NULL,
+	dir_cli varchar(30) NOT NULL,
+	tel_cli varchar(10) NOT NULL,
+	rol varchar (15) NOT NULL,
+	correo varchar (30) NOT NULL,
+  	ocupacion varchar (30) NOT NULL,
+	clave varchar(20) NOT NULL,
+  	nomb_usuario varchar(20) UNIQUE,
+  	nombreSede varchar(15) NOT NULL,
+  	sueldo decimal(9, 2) NOT NULL,
+	CONSTRAINT UQ_Empleado_Rol UNIQUE (id_empleado, rol) ,
+	CONSTRAINT UQ_Empleado_Sede UNIQUE (id_empleado, nombreSede),
+	FOREIGN KEY (nombreSede) REFERENCES Sede_UIO(nombreSede)
+);
+CREATE TABLE Productos (
+  id_producto int PRIMARY KEY,
+  nombre_prod varchar(30) NOT NULL,
+  precio_porPaq decimal(7, 2) NOT NULL,
+  cant int NULL
+);
+CREATE TABLE FacturasV (
+  num_factura int PRIMARY KEY,
+  total decimal(9, 2) NOT NULL,
+  iva decimal(9, 2) NOT NULL,
+  fecha_fact date NOT NULL,
+  id_cliente varchar(10) NOT NULL,
+  modoPago varchar(20) NOT NULL,
+  FOREIGN KEY (id_cliente) REFERENCES Clientes_UIO(id_cliente) ON DELETE CASCADE,
+  CONSTRAINT UQ_numFac_fecha UNIQUE (num_factura, fecha_fact) 
+);
+CREATE TABLE Proveedores_UIO (
+  id_proveedor varchar(13) PRIMARY KEY,
+  nombre_prov varchar(20) UNIQUE,
+  correo_elect varchar(20) NOT NULL,
+  tel_prov varchar(10) NOT NULL,
+  dir_prov varchar(20) NOT NULL,
+  nombreSede varchar(15) NOT NULL,
+  FOREIGN KEY (nombreSede) REFERENCES Sede_UIO(nombreSede)
+);
+
+CREATE TABLE ItemsV (
+  cant int NULL,
+  num_factura int NOT NULL,
+  id_producto int NOT NULL,
+  PRIMARY KEY (id_producto,num_factura),
+  FOREIGN KEY (num_factura) REFERENCES FacturasV(num_factura),
+  FOREIGN KEY (id_producto) REFERENCES Productos(id_producto) ON DELETE CASCADE
+);
+CREATE TABLE NumeroOrdenCompra (
+  num_orden int PRIMARY KEY,
+  total decimal(9, 2) NOT NULL,
+  iva decimal(9, 2) NOT NULL,
+  fecha_adq date NOT NULL,
+  modoPag varchar(30) NOT NULL,
+  CONSTRAINT UQ_numOrd_fecha UNIQUE (num_orden, fecha_adq)
+);
+CREATE TABLE ItemsC (
+  cant int NULL,
+  num_orden int NOT NULL,
+  id_producto int NOT NULL,
+  id_proveedor varchar(13) NULL,
+  PRIMARY KEY (num_orden, id_producto),
+  FOREIGN KEY (num_orden) REFERENCES NumeroOrdenCompra(num_orden),
+  FOREIGN KEY (id_producto) REFERENCES Productos(id_producto),
+  FOREIGN KEY (id_proveedor) REFERENCES Proveedores_UIO(id_proveedor) ON DELETE CASCADE
+);
+CREATE TABLE Caja (
+   codigoCierreCaja int PRIMARY KEY,
+   fecha date NOT NULL,
+   nomb_usuario varchar(20) NOT NULL,
+   montoInicial decimal(9, 2) NOT NULL,
+   montoCierre decimal(9, 2) NOT NULL,
+   totalTransG decimal(9, 2) NOT NULL,
+   totalEfectG decimal(9, 2) NOT NULL,
+   GastosTotales decimal(9, 2) NOT NULL,
+   totalTransI decimal(9, 2) NOT NULL,
+   totalEfectI decimal(9, 2) NOT NULL,
+   IngresosTotales decimal(9, 2) NOT NULL,
+   FOREIGN KEY (nomb_usuario) REFERENCES Empleados_UIO(nomb_usuario) ON DELETE CASCADE
+);

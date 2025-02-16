@@ -1,0 +1,25 @@
+CREATE OR REPLACE TRIGGER audit_proveedores_uio
+AFTER DELETE OR INSERT OR UPDATE ON proveedores_uio
+FOR EACH ROW
+declare 
+ v_op       varchar2(1);
+ v_tabla varchar2(20);
+ v_anterior varchar2(800);
+ v_nuevo varchar2(800);
+BEGIN
+v_tabla :='proveedores_uio';
+if inserting then
+ v_op := 'I';
+ elsif updating then
+ v_op := 'U';
+ elsif deleting then
+  v_op := 'D';
+end if;
+ v_anterior:=:OLD.id_proveedor||'|'||:OLD.nombre_prov;
+ v_nuevo:= :NEW.id_proveedor||'|'||:NEW.nombre_prov;
+  INSERT INTO auditorias(user_name, fecha, tipo_operacion, nombre_table,
+    anterior,nuevo)
+     VALUES (USER, SYSDATE,v_op,v_tabla, v_anterior,v_nuevo
+     );
+END;
+/
